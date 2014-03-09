@@ -1,0 +1,1 @@
+Obtiene las provincias y las localidades del sitio de Pago fácil.
